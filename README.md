@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I used to play rhythm games often, especially on arcades.**
 
 ---
-### Common Languages
+### Commonly Used Languages
 
 <p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="r" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></p>
 
