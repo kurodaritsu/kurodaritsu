@@ -1,16 +1,18 @@
 <h1 align="center">Hi, You can call me Frizu 👋</h1>
-<h3 align="center">An enthusiastic college student taking BS Data Science</h3>
+<h3 align="center">An enthusiastic college student taking Data Science</h3>
 
-- 🌱 I’m currently learning **Python**
+Since there are now recent offerings in undergraduate Data Science, I decided to take it. Eventually, it was a great decision for me to grasp this career.
 
-- ⚡ Fun fact **I used to play rhythm games often, especially on arcades.**
+I haven't done so much data analysis since I'm too busy finishing homeworks, but when I do, I try to finish it as soon as possible. Self-motivation is what drives me to learn new things despite the current events.
 
 ---
 ### Commonly Used Languages
 
-<p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="r" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></p>
+I mainly use **R** as my primary language for documentation and static data analysis.
+For Machine Learning and Real-time data analysis and visualization, I use Python.
+I also have some basic knowledge in MATLAB since my university specializes at that language.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidenfrizu" alt="kaidenfrizu" /> <a href="https://paypal.me/Frizu" title="Paypal Link"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></p>
 
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
