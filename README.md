@@ -20,7 +20,7 @@ I'm not active in Github as much as others but I do post some data analysis and 
 I mainly use R as my primary language for documentation and static data analysis. For Machine Learning and Real-time data analysis and visualization, I use Python. I also have some basic knowledge in MATLAB since my university specializes at that language.
 
 ---
-### Cool Charts
+### Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidenfrizu" alt="kaidenfrizu" /></p>
 
 <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/overview.svg"></a><a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/languages.svg"></a>
