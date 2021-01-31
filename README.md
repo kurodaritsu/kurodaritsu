@@ -14,17 +14,15 @@ I haven't done so much data analysis since I'm too busy finishing homeworks, but
 
 I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I also use this to finish my Coursera assignments as part of our requirements.
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/overview.svg"></a>
-
 ---
 ### Commonly Used Languages
 
 I mainly use R as my primary language for documentation and static data analysis. For Machine Learning and Real-time data analysis and visualization, I use Python. I also have some basic knowledge in MATLAB since my university specializes at that language.
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/languages.svg"></a>
-
 ---
-### Support
+### Cool Charts
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidenfrizu" alt="kaidenfrizu" /></p>
+
+<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/overview.svg"></a><a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/languages.svg"></a>
 
 [![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
