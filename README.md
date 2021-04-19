@@ -1,4 +1,4 @@
-<h1 align="left"># Data Stonks #</h1>
+<h1 align="left"># Data Stonks</h1>
 <h3 align="left">Some college student taking undergraduate Data Science</h3>
 
 ### Intro
