@@ -5,14 +5,12 @@
 
 Since there are now recent offerings in undergraduate Data Science, I decided to take it. Eventually, it was a great decision for me to grasp this career.
 
-I haven't done so much data analysis since I'm too busy finishing homeworks, but when I do, I try to finish it as soon as possible. Self-motivation is what drives me to learn new things despite the current events.
-
-*I'm currently planning for something big atm*
+I haven't done so much data analysis since I'm too busy finishing homework, but when I do, I try to finish it as soon as possible. Self-motivation is what drives me to learn new things despite the current events.
 
 ---
 ### Contributions
 
-I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I also use this to finish my Coursera assignments as part of our requirements.
+I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I also use this to finish my homework and activities as part of our requirements.
 
 ---
 ### Commonly Used Languages
