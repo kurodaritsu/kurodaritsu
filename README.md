@@ -13,14 +13,14 @@ I haven't done so much data analysis since I'm too busy finishing homework, but 
 I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I also use this to finish my homework and activities as part of our requirements.
 
 ---
-### Commonly Used Languages
+### Support
 
-I mainly use R as my primary language for documentation and static data analysis. For Machine Learning and Real-time data analysis and visualization, I use Python. I also have some basic knowledge in MATLAB since my university specializes at that language.
+If you appreciate my works that I upload in GitHub, you can simply support by starring my repositories :)
 
 ---
 ### Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidenfrizu" alt="kaidenfrizu" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=KaidenFrizu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=issues,stars&count_private=true&show_icons=true&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)
