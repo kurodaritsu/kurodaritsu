@@ -21,6 +21,6 @@ I mainly use R as my primary language for documentation and static data analysis
 ### Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaidenfrizu" alt="kaidenfrizu" /></p>
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/overview.svg"></a><a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/KaidenFrizu/github-stats/blob/master/generated/languages.svg"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu)](https://github.com/anuraghazra/github-readme-stats)
