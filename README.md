@@ -21,6 +21,5 @@ If you appreciate my works that I upload in GitHub, you can simply support by st
 ### Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=KaidenFrizu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=issues,stars&count_private=true&show_icons=true&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)
