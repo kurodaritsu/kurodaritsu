@@ -14,7 +14,7 @@ I'm not active in Github as much as others but I do post some data analysis and 
 
 ---
 ### Statistics
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Commonly Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&hide=jupyter%20notebook,scss,shell,ruby,makefile,smarty&hide_progress=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaidenFrizu)
