@@ -1,20 +1,11 @@
-<h1 align="left"># Data Stonks</h1>
-<h3 align="left">Data Science Graduate</h3>
+<h1 align="left">Frizu | ふりつ</h1>
+<a href="https://dev.to/kaidenfrizu"><img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&color=333333"></a>
+<a href="https://stackoverflow.com/users/12478380/frizu"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-profile-F58025?logo=stackoverflow&logoColor=F58025"></a>
+<img alt="profile-views" src="https://komarev.com/ghpvc/?username=KaidenFrizu">
 
-### Intro
-
-Since there are now recent offerings in undergraduate Data Science, I decided to take it. Eventually, it was a great decision for me to grasp this career.
-
-It's been a while since I had some contributions here in GitHub. I'll start to push my personal projects soon now that I finally graduated.
-
----
-### Contributions
-
-I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I'll update this README once I got things prepared here.
+## What about me? 
+I make projects
 
 ---
-### Statistics
+
 [![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Commonly Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&hide=jupyter%20notebook,scss,shell,ruby,makefile,smarty&hide_progress=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=KaidenFrizu)
