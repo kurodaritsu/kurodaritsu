@@ -1,20 +1,13 @@
-<h1 align="left"># Data Stonks</h1>
-<h3 align="left">Data Science Graduate</h3>
-
-### Intro
-
-Since there are now recent offerings in undergraduate Data Science, I decided to take it. Eventually, it was a great decision for me to grasp this career.
-
-It's been a while since I had some contributions here in GitHub. I'll start to push my personal projects soon now that I finally graduated.
+<h1 align="left">Frizu | ふりつ</h1>
+<a href="https://kaidenfrizu.github.io/"><img alt="website" src="https://img.shields.io/badge/Website-222222?logo=github"></a>
+<a href="mailto:frizu.primary834@passmail.net"><img alt="email" src="https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=EEEFEE"></a>
+<a href="https://dev.to/kaidenfrizu"><img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&color=333333"></a>
+<img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=EEEFEE">
 
 ---
-### Contributions
 
-I'm not active in Github as much as others but I do post some data analysis and cool insights when I found one. I'll update this README once I got things prepared here.
-
----
-### Statistics
 [![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Commonly Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KaidenFrizu&hide=jupyter%20notebook,scss,shell,ruby,makefile,smarty&hide_progress=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaidenFrizu)
+**Profile Image:** <a href="https://x.com/ninomaeinanis"><img alt="Ninomae Ina'nis" src="https://img.shields.io/badge/Ninomae_Ina'nis-000000?logo=x"></a>
+
+
