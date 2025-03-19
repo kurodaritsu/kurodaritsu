@@ -2,7 +2,7 @@
 <a href="https://kaidenfrizu.github.io/"><img alt="website" src="https://img.shields.io/badge/Website-222222?logo=github"></a>
 <a href="mailto:frizu.primary834@passmail.net"><img alt="email" src="https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=EEEFEE"></a>
 <a href="https://dev.to/kaidenfrizu"><img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&color=333333"></a>
-<img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=EEEFEE">
+<a href="https://github.com/sponsors/KaidenFrizu"><img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=EEEFEE"></a>
 
 ---
 
