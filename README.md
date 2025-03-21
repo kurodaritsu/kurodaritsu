@@ -6,8 +6,8 @@
 
 ---
 
-[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Frizu's Github stats](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=KaidenFrizu&hide=commits,stars&count_private=true&show_icons=true&custom_title=Statistics&theme=tokyonight)
 
 **Profile Image:** <a href="https://x.com/ninomaeinanis"><img alt="Ninomae Ina'nis" src="https://img.shields.io/badge/Ninomae_Ina'nis-000000?logo=x"></a>
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The tweet content here. <a href="https://twitter.com/ninomaeinanis/status/1386443380557705219?ref_src=twsrc%5Etfw">April 26, 2021</a></p>&mdash; Ninomae Ina&#39;nis🐙holoEN (@ninomaeinanis) <a href="https://twitter.com/ninomaeinanis/status/1386443380557705219?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
