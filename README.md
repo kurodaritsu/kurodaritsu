@@ -1,4 +1,4 @@
-<h1>Frizu | ふりつ</h1>
+<h1>ふりつ</h1>
 <!-- <a href="https://kaidenfrizu.github.io/"><img alt="website" src="https://img.shields.io/badge/Website-222222?logo=github"></a> -->
 <a href="mailto:ritsu@kuroda.dev"><img alt="email" src="https://img.shields.io/badge/Email-EA4335?logo=mailboxdotorg&logoColor=FFFFFF"></a>
 <!--<a href="https://dev.to/kaidenfrizu"><img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&color=333333"></a> -->
@@ -22,10 +22,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
----
-
-<details>
-<summary><b>Profile Image:</b> <a href="https://x.com/ninomaeinanis"><img alt="Ninomae Ina'nis" src="https://img.shields.io/badge/Ninomae_Ina'nis-000000?logo=x" style="position:relative;top:5px"></a></summary>
-<a href="https://x.com/ninomaeinanis/status/1386443380557705219"><img alt="Inart Link to X" src="img/Inart.png" style="width:50%; height:auto;"></a>
-</details>
