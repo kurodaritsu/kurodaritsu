@@ -2,7 +2,7 @@
 <!-- <a href="https://kaidenfrizu.github.io/"><img alt="website" src="https://img.shields.io/badge/Website-222222?logo=github"></a> -->
 <a href="mailto:ritsu@kuroda.dev"><img alt="email" src="https://img.shields.io/badge/Email-EA4335?logo=mailboxdotorg&logoColor=FFFFFF"></a>
 <!--<a href="https://dev.to/kaidenfrizu"><img alt="dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&color=333333"></a> -->
-<a href="https://github.com/sponsors/KaidenFrizu"><img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=EEEFEE"></a>
+<a href="https://github.com/sponsors/kurodaritsu"><img alt="Github Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=EEEFEE"></a>
 
 ---
 [![Cloud Platforms](https://skillicons.dev/icons?i=azure,gcp,aws)](https://skillicons.dev)
